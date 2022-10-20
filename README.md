@@ -1,1 +1,1 @@
-Test for printf
+Test for printf.c
